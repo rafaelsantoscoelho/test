@@ -7,6 +7,11 @@
             Console.WriteLine("----------------------");
             Console.WriteLine("Task #1\n");
 
+            // Adding some comments
+            // Comment 1
+            // Comment 2
+            // Comment 3
+
             Console.WriteLine("Enter the dog's name:");
             string dogName = Console.ReadLine();
 

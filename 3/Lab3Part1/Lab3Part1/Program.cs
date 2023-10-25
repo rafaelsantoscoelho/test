@@ -14,6 +14,10 @@
 
             Console.WriteLine("BLABLABLABLA");
 
+            Console.WriteLine("BLABLABLABLA2");
+
+            Console.WriteLine("BLABLABLABLA3");
+
             Console.WriteLine("Enter the dog's name:");
             string dogName = Console.ReadLine();
 
